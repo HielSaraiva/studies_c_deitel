@@ -1,2 +1,2 @@
-## ResoluÁ„o das questıes do livro:
+## Resolu√ß√£o de algumas quest√µes do livro:
 * C: Como Programar
