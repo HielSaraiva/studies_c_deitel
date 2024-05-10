@@ -1,2 +1,2 @@
-## Resolução de algumas questões do livro:
-* C: Como Programar
+## C Deitel
+* Resolutions of some questions of Deitel book.
